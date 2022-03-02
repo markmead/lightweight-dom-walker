@@ -1,0 +1,19 @@
+{
+  "name": "dom-walker",
+  "version": "1.0.0",
+  "description": "Simple DOM walker for updating parts of a DOM tree",
+  "keywords": [
+    "DOM Walker"
+  ],
+  "author": "Mark Mead",
+  "license": "MIT",
+  "main": "dist/domwalker.cjs.js",
+  "module": "dist/domwalker.esm.js",
+  "unpkg": "dist/domwalker.min.js",
+  "scripts": {
+    "build": "node scripts/build.js"
+  },
+  "devDependencies": {
+    "esbuild": "^0.12.22"
+  }
+}
