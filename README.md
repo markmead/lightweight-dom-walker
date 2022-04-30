@@ -1,6 +1,6 @@
-# DOM Walker - WIP
+# Lightweight DOM Walker
 
-Find and replace differences between new and old HTML, rather than replacing the entire section.
+Find and replace differences between new and old HTML.
 
 ## Example
 
